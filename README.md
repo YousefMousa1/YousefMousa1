@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Yousef 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Curious+Student+%7C+Software+Engineer+in+Training;ML%2FAutomation+Explorer;Open+Source+Contributor+in+Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Curious+Student+%7C+Computer+Science+, Statistics & Operational reseach;ML%2FAutomation+Explorer;Open+Source+Contributor+in+Progress" />
 </p>
 
 ---
