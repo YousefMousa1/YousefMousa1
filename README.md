@@ -10,15 +10,17 @@
 
 - 🤖 [OSRS Flipping Bot](https://github.com/yousefmousa/osrs-flipping-bot)  
   *ML-driven item flipping automation, using real-time OSRS market data.*
-
-- 🌲 [AVL Tree from Scratch](https://github.com/YousefMousa1/Projects)  
+- 🧠 [Neural Style Transfer API(FLASK, PYTORCH, DOCKER)](https://github.com/YousefMousa1/style-transfer-app)
+  *ML-Model that combines/transfers 2 images together, a target image mixed into a style image.*
+  
+- 🌲 [AVL Tree from Scratch](https://github.com/YousefMousa1/D](https://github.com/YousefMousa1/DataStructrue))  
   *Custom-built self-balancing binary search tree implementation in Python.*
 
 - 📲 [Telegram Flip Finder](https://github.com/YousefMousa1/Projects)  
   *A Telegram-integrated alert system for finding profitable flips in OSRS, powered by live API scans.*
 
-- 📊 K-means Clustering — Statistical ML implemented from scratch  
-- 🧠 Automation Scripts — From bots to pipelines, I like building tools that think for me
+- 📊 [K-means Clustering](https://github.com/YousefMousa1/Software-Project) 
+
   
 - 👁️‍🗨️ [OpenCV Vision Bot](https://github.com/YousefMousa1/Projects)  
   *Real-time object detection and interaction using OpenCV. Built a vision-based bot that recognizes in-game elements and simulates input actions with human-like randomness.*
