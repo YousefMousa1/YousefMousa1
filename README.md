@@ -17,14 +17,14 @@
 - 🧠 [NLP Laboratory](https://github.com/YousefMousa1/NLP-LAB)  
   *A personal NLP playground sparked by reading* _Attention Is All You Need_, *now exploring Transformer models and probing LLM Theory of Mind.
   Infulenced by:   
-  Kosinski (2023) and Ullman et al. : (https://arxiv.org/abs/2302.02083)
+  Kosinski (2023) and Ullman et al. : (https://arxiv.org/abs/2302.02083)   
   Wentao Zhu, Zhining Zhang, Yizhou Wang. :(https://arxiv.org/abs/2402.18496)*
 
 **Detecting DDos/Dos/Botnet/Other Attacks using supervised machine learning**
 - 🕵️ [Attack Detection](https://github.com/YousefMousa1/NLP-LAB)  
   *My own implementaion of the research paper:
   Improving distributed denial of service attack detection using supervised machine learning.
-  Link to the research paper
+  Link to the research paper   
   (https://www.sciencedirect.com/science/article/pii/S2665917423002477)*
 
 **Machine learnig(Supervised)**
