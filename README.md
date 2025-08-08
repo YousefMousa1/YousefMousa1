@@ -16,7 +16,12 @@
 **Deep learnig & NLP(Currently in progress)**
 - 🧠 [NLP Laboratory](https://github.com/YousefMousa1/NLP-LAB)  
   *A personal NLP playground sparked by reading* _Attention Is All You Need_, *now exploring Transformer models and probing LLM Theory of Mind.*
-  
+
+**Detecting DDos/Dos/Botnet/Other Attacks using supervised machine learning**
+-🕵️ [Attack Detection](https://github.com/YousefMousa1/NLP-LAB)
+  *My own implementaion of the research paper:
+  Improving distributed denial of service attack detection using supervised machine learning.
+  Link to the research paper (https://www.sciencedirect.com/science/article/pii/S2665917423002477)*
 **Machine learnig(Supervised)**
 - 🤖 [OSRS Flipping Bot](https://github.com/YousefMousa1/OSBOT)  
   *ML-driven item-flipping automation with real-time OSRS market signals.*
@@ -32,7 +37,7 @@
 - 📟 [Low-Level implementations dive. **(C embedded)**](https://github.com/YousefMousa1/OS-DIVE)
   *Some implementations from my operating system class.*
   
-  **Data structures**
+**Data structures**
 - 🌲 [AVL Tree & Fibonacci Heap from Scratch ](https://github.com/YousefMousa1/Scratch-AVL-Fibbonaci-Heap)  
   *Pure-from-scratch implementations of an AVL Tree and Fibonacci Heap in Python and Java*
 
