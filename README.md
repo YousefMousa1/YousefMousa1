@@ -9,12 +9,12 @@
 ### 🚀 Projects I’m Proud Of
 
 **Deep learnig & NLP(Currently in progress)**
-![NLP](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Transformer.jpg/400px-Transformer.jpg)  
+![NLP](https://miro.medium.com/v2/resize:fit:828/format:webp/1*0mh8M8dT9f6u3sbP-6Fbtg.png)  
 - 🧠 [NLP Laboratory](https://github.com/YousefMousa1/NLP-LAB)  
   *A personal NLP playground sparked by reading* _Attention Is All You Need_, *now exploring Transformer models and probing LLM Theory of Mind.*
   
 **Machine learnig(Supervised)**
-![Supervised ML](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Classification_Supervised_Learning.png/400px-Classification_Supervised_Learning.png)  
+![Supervised ML](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ML-Tasks.png/640px-ML-Tasks.png)  
 - 🤖 [OSRS Flipping Bot](https://github.com/YousefMousa1/OSBOT)  
   *ML-driven item-flipping automation with real-time OSRS market signals.*
   
@@ -27,7 +27,7 @@
   *Exploring unsupervised learning with a from-scratch K-means implementation.*
 
 **Operating systems**
-![Embedded systems](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Arduino_Uno_-_R3.jpg/400px-Arduino_Uno_-_R3.jpg)  
+![Embedded systems](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Arduino_Uno_-_R3.jpg/640px-Arduino_Uno_-_R3.jpg)  
 - 📟 [Low-Level implementations dive. **(C embedded)**](https://github.com/YousefMousa1/OS-DIVE)
   *Some implementations from my operating system class.*
   
