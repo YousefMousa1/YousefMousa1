@@ -16,7 +16,7 @@
 **Deep learnig & NLP(Currently in progress)**
 - 🧠 [NLP Laboratory](https://github.com/YousefMousa1/NLP-LAB)  
   *A personal NLP playground sparked by reading* _Attention Is All You Need_, *now exploring Transformer models and probing LLM Theory of Mind.
-  Infulenced by:
+  Infulenced by:   
   Kosinski (2023) and Ullman et al. : (https://arxiv.org/abs/2302.02083)
   Wentao Zhu, Zhining Zhang, Yizhou Wang. :(https://arxiv.org/abs/2402.18496)*
 
