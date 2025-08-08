@@ -18,7 +18,7 @@
   *A personal NLP playground sparked by reading* _Attention Is All You Need_, *now exploring Transformer models and probing LLM Theory of Mind.*
 
 **Detecting DDos/Dos/Botnet/Other Attacks using supervised machine learning**
--🕵️ [Attack Detection](https://github.com/YousefMousa1/NLP-LAB)
+- 🕵️ [Attack Detection](https://github.com/YousefMousa1/NLP-LAB)
   *My own implementaion of the research paper:
   Improving distributed denial of service attack detection using supervised machine learning.
   Link to the research paper (https://www.sciencedirect.com/science/article/pii/S2665917423002477)*
