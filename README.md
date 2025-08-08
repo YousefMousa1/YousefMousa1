@@ -8,29 +8,39 @@
 
 ### 🚀 Projects I’m Proud Of
 
+**Deep learnig & NLP(Currently in progress)**
+![NLP](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Transformer.jpg/400px-Transformer.jpg)  
 - 🧠 [NLP Laboratory](https://github.com/YousefMousa1/NLP-LAB)  
   *A personal NLP playground sparked by reading* _Attention Is All You Need_, *now exploring Transformer models and probing LLM Theory of Mind.*
-
+  
+**Machine learnig(Supervised)**
+![Supervised ML](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Classification_Supervised_Learning.png/400px-Classification_Supervised_Learning.png)  
 - 🤖 [OSRS Flipping Bot](https://github.com/YousefMousa1/OSBOT)  
   *ML-driven item-flipping automation with real-time OSRS market signals.*
-
-- 🌲 [AVL Tree & Fibonacci Heap from Scratch ](https://github.com/YousefMousa1/Scratch-AVL-Fibbonaci-Heap)  
-  *Pure-from-scratch implementations of an AVL Tree and Fibonacci Heap in Python and Java*
-
+  
+- ⚙️ [Machine learning introduction algorithms](https://github.com/YousefMousa1/Supervised-Models)
+  *Machine learning introduction algorithms. SGD, SVM, and more.*
+  
+**Machine learnig(Unsupervised)**
+![K-means clustering](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/K-means_convergence.gif/320px-K-means_convergence.gif)  
 - 📊 [K-means Clustering](https://github.com/YousefMousa1/Software-Project)  
   *Exploring unsupervised learning with a from-scratch K-means implementation.*
 
+**Operating systems**
+![Embedded systems](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Arduino_Uno_-_R3.jpg/400px-Arduino_Uno_-_R3.jpg)  
+- 📟 [Low-Level implementations dive. **(C embedded)**](https://github.com/YousefMousa1/OS-DIVE)
+  *Some implementations from my operating system class.*
+  
+  **Data structures**
+  ![AVL Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AVL_Tree_Example.gif/300px-AVL_Tree_Example.gif)  
+- 🌲 [AVL Tree & Fibonacci Heap from Scratch ](https://github.com/YousefMousa1/Scratch-AVL-Fibbonaci-Heap)  
+  *Pure-from-scratch implementations of an AVL Tree and Fibonacci Heap in Python and Java*
+
+
+
 ---
 
-### 🎞️ OsBot in Action
 
-> Replace the path below with your actual GIF/screenshot.
->
-> Create a folder like `assets/` in the repo and drop the media there.
-
-<p align="center">
-  <img src="assets/osbot-demo.gif" alt="OSBot Demo" width="720"/>
-</p>
 
 ---
 
