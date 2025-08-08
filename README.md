@@ -30,15 +30,15 @@
 **Machine learnig(Supervised)**
 - 🤖 [OSRS Flipping Bot](https://github.com/YousefMousa1/OSBOT)  
   *ML-driven item-flipping automation with real-time OSRS market signals.* 
-- ⚙️ [Machine learning introduction algorithms](https://github.com/YousefMousa1/Supervised-Models)
+- ⚙️ [Machine learning introduction algorithms](https://github.com/YousefMousa1/Supervised-Models)   
   *Machine learning introduction algorithms. SGD, SVM, and more.*
   
 **Machine learnig(Unsupervised)**
-- 📊 [K-means Clustering](https://github.com/YousefMousa1/Software-Project)  
+- 📊 [K-means Clustering](https://github.com/YousefMousa1/Software-Project)     
   *Exploring unsupervised learning with a from-scratch K-means implementation.*
 
 **Operating systems**
-- 📟 [Low-Level implementations dive. **(C embedded)**](https://github.com/YousefMousa1/OS-DIVE)
+- 📟 [Low-Level implementations dive. **(C embedded)**](https://github.com/YousefMousa1/OS-DIVE)   
   *Some implementations from my operating system class.*
   
 **Data structures**
