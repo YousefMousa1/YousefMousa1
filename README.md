@@ -22,10 +22,10 @@
   *My own implementaion of the research paper:
   Improving distributed denial of service attack detection using supervised machine learning.
   Link to the research paper (https://www.sciencedirect.com/science/article/pii/S2665917423002477)*
+
 **Machine learnig(Supervised)**
 - 🤖 [OSRS Flipping Bot](https://github.com/YousefMousa1/OSBOT)  
-  *ML-driven item-flipping automation with real-time OSRS market signals.*
-  
+  *ML-driven item-flipping automation with real-time OSRS market signals.* 
 - ⚙️ [Machine learning introduction algorithms](https://github.com/YousefMousa1/Supervised-Models)
   *Machine learning introduction algorithms. SGD, SVM, and more.*
   
