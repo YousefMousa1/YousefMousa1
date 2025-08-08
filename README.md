@@ -1,4 +1,4 @@
-h1 align="center">👋 Hey, I'm <span style="color:#36BCF7">Yousef Mousa</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#36BCF7">Yousef Mousa</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+%7C+Statistics+%7C+Operations+Research;Machine+Learning+%26+Automation+Explorer;Open+Source+Contributor+%E2%9A%99%EF%B8%8F;Always+Learning+%F0%9F%93%9A" />
@@ -8,6 +8,7 @@ h1 align="center">👋 Hey, I'm <span style="color:#36BCF7">Yousef Mousa</span><
   <a href="https://www.linkedin.com/in/yousefm1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</p>
 
 
 ### 🚀 Projects I’m Proud Of
