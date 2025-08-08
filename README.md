@@ -14,8 +14,8 @@
 - 🤖 [OSRS Flipping Bot](https://github.com/YousefMousa1/OSBOT)  
   *ML-driven item-flipping automation with real-time OSRS market signals.*
 
-- 🌲 [AVL Tree from Scratch](https://github.com/YousefMousa1/DataStructure)  
-  *Self-balancing BST implementation with rotations, inserts, and deletes.*
+- 🌲 [AVL Tree & Fibonacci Heap from Scratch ](https://github.com/YousefMousa1/Scratch-AVL-Fibbonaci-Heap)  
+  *Pure-from-scratch implementations of an AVL Tree and Fibonacci Heap in Python and Java*
 
 - 📊 [K-means Clustering](https://github.com/YousefMousa1/Software-Project)  
   *Exploring unsupervised learning with a from-scratch K-means implementation.*
