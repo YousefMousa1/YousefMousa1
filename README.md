@@ -11,7 +11,6 @@
 </p>
 
 
-### 🚀 Projects I’m Proud Of
 
 **Deep learning, NLP, COMPUTER VISION, ML-THEORY, STATISTICS.
 ---
